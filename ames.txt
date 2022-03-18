@@ -1,0 +1,6 @@
+Pranav bhatia
+Rishu goyal
+Naveen 
+Vasu 
+Lovish
+git config --global user.name r Name"
